@@ -99,6 +99,3 @@ val_path = "data/validate_dataset_final.csv"
 - Cross-validation instead of a single train/test split
 - Deploy as an API or simple web app for inference
 
-## 📄 License
-
-This project is open-sourced under the MIT License — feel free to use and modify.
