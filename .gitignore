@@ -1,0 +1,28 @@
+# # Data files (usually large / private — don't commit)
+# data/
+# *.csv
+# *.xlsx
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# OS / editor junk
+.DS_Store
+.vscode/
+.idea/
+
+# Model artifacts (optional — remove if you want to track saved models)
+*.pkl
+*.joblib
+*.h5
